@@ -1,11 +1,23 @@
-# 🎲 Number Guessing Game
+## ✅ Project README (NumQuest Game Folder)
 
-A simple Python project where the computer chooses a number and the player has to guess it.  
-Built as my **first Python project** to practice coding.
+```markdown
+# 🎲 NumQuest Game
+
+A simple Python number-guessing game.  
+The computer randomly picks a number, and your goal is to guess it with as few attempts as possible!
 
 ---
 
-## ✨ Features
+## 🕹️ How to Play
 
--   Computer randomly picks a number within a range.
--   Player tries to guess, with hints (Too high / Too low).
+1. Run the game
+
+2. Enter your guesses when prompted.
+
+3. The game will give you hints:
+
+"Too high" → try a smaller number.
+"Too low" → try a bigger number.
+
+4. Keep guessing until you find the correct number!
+```
